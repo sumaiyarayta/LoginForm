@@ -122,7 +122,7 @@ header {
     justify-content: space-between;
     margin-bottom: 30px;
 }
-.checkbox{display: flex;width: 32%;align-items: center;margin-bottom: 0px;/* height: 24px; */}
+.checkbox{display: flex;width: 37%;align-items: center;margin-bottom: 0px;/* height: 24px; */}
 .checkbox input{
     height: 14px !important;
     width: 20% !important;
